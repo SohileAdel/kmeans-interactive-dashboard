@@ -1,1 +1,1 @@
-# kmeans-with-deployment
+# kmeans-interactive-dashboard
