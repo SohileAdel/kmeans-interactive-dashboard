@@ -1,4 +1,4 @@
-# kmeans-interactive-dashboard
+# KMeans Interactive Dashboard
 
 #### -- Project Status: Completed
 
